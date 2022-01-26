@@ -31,8 +31,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
 		DevOps Online Training, 
-		Trainer : Jeevan,
-		Rajampet-516115,
+		Trainer : Ramesh,
+		Tirupathi-516115,
 		+91-7842602230
 		djeevan12@gmail.com
 		<br>
